@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book>
+        <title>Ready Player One</title>
+        <publisher>Ediciones B</publisher>
+        <publication year="2018" month="2" day="15" />
+        <overview>
+            <![CDATA[Estamos en el año 2044 y, como el resto de la humanidad, Wade Watts prefiere mil veces el videojuego de OASIS al cada vez más sombrío mundo real. Se asegura que esconde las diabólicas piezas de un rompecabezas cuya resolución conduce a una fortuna incalculable. Las claves del enigma están basadas en la cultura de finales del siglo XX y, durante años, millones de humanos han intentado dar con ellas, sin éxito. De repente, Wade logra resolver el primer rompecabezas del premio, y, a partir de ese momento, debe competir contra miles de jugadores para conseguir el trofeo. La única forma de sobrevivir es ganar; pero para hacerlo tendrá que abandonar su existencia virtual y enfrentarse a la vida y al amor en el mundo real, del que siempre ha intentado escapar.]]>
+        </overview>
+        <authors>
+            <author>
+                <name>Ernest</name>
+                <surname>Cline</surname>
+            </author>
+        </authors>
+        <buy_links>
+            <link provider="amazon"><![CDATA[https://www.amazon.es/Ready-player-one-pel%C3%ADcula-Spielberg/dp/8466663061/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1585039398&sr=1-3]]></link>
+            <link provider="appleBooks"><![CDATA[https://books.apple.com/es/book/ready-player-one/id1255679039]]></link>
+        </buy_links>
+    </book>
+    <book>
+        <title>Mr. Mercedes</title>
+        <publisher>Plaza &amp; Janés</publisher>
+        <publication year="2014" month="11" day="6" />
+        <overview>
+            <![CDATA[Justo antes del amanecer, en una decadente ciudad americana, cientos de parados esperan la apertura de la oficina de empleo para reclamar uno de los mil puestos de trabajo que se han anunciado. Han hecho cola durante toda la noche.<br /> De pronto, invisible hasta que lo tienen prácticamente encima, un Mercedes surge de la fría niebla de la madrugada. Su conductor atropella y aplasta a todos los que encuentra a su alcance. Acto seguido, el coche da marcha atrás y vuelve a arremeter contra ellos. El asesino huye dejando atrás ocho muertos y quince heridos.<br /> Meses después, Bill Hodges, un policía jubilado, que sigue obsesionado con este caso sin resolver, recibe una carta anónima de alguien que se declara culpable de la masacre.<br /> Brady Hartsfield vive con su madre alcohólica en la casa donde nació. Disfrutó tanto de aquella sensación de muerte debajo de los neumáticos del Mercedes, que ahora quiere recuperarla.]]>
+        </overview>
+        <authors>
+            <author>
+                <name>Stephen</name>
+                <surname>King</surname>
+            </author>
+        </authors>
+        <buy_links>
+            <link provider="amazon"><![CDATA[https://www.amazon.es/Mercedes-Trilog%C3%ADa-Bill-Hodges-EXITOS/dp/8401343119/ref=sr_1_1?__mk_es_ES=ÅMÅŽÕÑ&crid=1Z0FA3DSYM5C2&keywords=mr+mercedes+stephen+king&qid=1585039470&s=books&sprefix=Mr+Merce%2Cstripbooks%2C160&sr=1-1]]></link>
+            <link provider="appleBooks"><![CDATA[https://books.apple.com/es/book/mr-mercedes-trilog%C3%ADa-bill-hodges-1/id923508849]]></link>
+        </buy_links>
+    </book>
+</books>
+
